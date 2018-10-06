@@ -1,0 +1,23 @@
+{
+  "name": "meowth",
+  "version": "0.0.1",
+  "description": "Meowth is a resume generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zz1211/meowth.git"
+  },
+  "keywords": [
+    "resume",
+    "generator"
+  ],
+  "author": "zhongzhiqiang <zqzhong1211@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zz1211/meowth/issues"
+  },
+  "homepage": "https://github.com/zz1211/meowth#readme"
+}
