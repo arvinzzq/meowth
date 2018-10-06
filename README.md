@@ -20,7 +20,7 @@ Meowth is a resume generator.
 > 我们是穿梭在银河的火箭队！白洞，白色的明天在等着我们！！
 >
 > 就是这样~<span style="color: #e00">喵</span>~~~~
-So~nansi~~~
+So~ nansi~~~
 
 ## Usage
 
